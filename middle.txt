@@ -1,0 +1,31 @@
+{
+  "tier": "lite",
+  "engineVersion": "2.1.0",
+  "seed": "0a0ba6ee756a3704d2667611746bbefc40133d2e4cfae2ab515c64c191b1ef4f",
+  "buildId": "1cdf29915460ba413cb7618f",
+  "inputBytes": 395,
+  "outputBytes": 18836,
+  "elapsedMs": 24.41,
+  "engine": "vm-whole-program",
+  "outputSha256": "283befc15c6eda3463e20b22a290743f64cdc051a42922b562eff2c2a142d3ee",
+  "target": "luau",
+  "syntaxValidated": true,
+  "runtimeValidated": false,
+  "antiDebug": true,
+  "banner": true,
+  "warnings": [
+    "Stack checks require debug.traceback support in the target runtime."
+  ],
+  "vmInstructions": 54,
+  "vmProtos": 2,
+  "vmConstants": 13,
+  "vmBlobBytes": 1456,
+  "vmOpcodeTokens": 127,
+  "vmDispatchSlots": 44,
+  "vmShuffledBlocks": 4,
+  "vmInstructionEncoding": "per-prototype-position-mask-v1",
+  "vmIntegrity": "dual-checksum-v1",
+  "vmLayers": 1,
+  "vmInnerInstructions": 54,
+  "vmInnerConstants": 13
+}
